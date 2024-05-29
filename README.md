@@ -1,3 +1,3 @@
 # abhi-demo
 this is my demo repo
-author - abhi
+author - abhi (prince)
